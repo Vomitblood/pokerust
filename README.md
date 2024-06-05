@@ -35,7 +35,7 @@ This is the Python implementation:
 
 ## Say
 
-- Pokemonsay, inspired by cowsay. Pipe text into it or use `--text` to make a Pokemon say it.
+- Pokemonsay, inspired by cowsay. Use `rustmon say --text` and pipe text into it to make a Pokemon say it.
 
 ## Credits
 
